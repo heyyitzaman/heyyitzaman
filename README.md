@@ -13,18 +13,18 @@
 
 <div align="center">
   
-  ![Profile views](https://komarev.com/ghpvc/?username=amanpandey-crypto&label=Profile%20views&color=0e75b6&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/amanpandey-crypto?label=Followers&style=for-the-badge)
-  ![Stars](https://img.shields.io/github/stars/amanpandey-crypto/amanpandey-crypto?label=Stars&style=for-the-badge)
-  ![Forks](https://img.shields.io/github/forks/amanpandey-crypto/amanpandey-crypto?label=Forks&style=for-the-badge)
-  ![Open Issues](https://img.shields.io/github/issues/amanpandey-crypto/amanpandey-crypto?label=Open%20Issues&style=for-the-badge)
-  ![PRs](https://img.shields.io/github/issues-pr/amanpandey-crypto/amanpandey-crypto?label=Open%20PRs&style=for-the-badge)
+  ![Profile views](https://komarev.com/ghpvc/?username=heyyitzaman&label=Profile%20views&color=0e75b6&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/heyyitzaman?label=Followers&style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/heyyitzaman/heyyitzaman?label=Stars&style=for-the-badge)
+  ![Forks](https://img.shields.io/github/forks/heyyitzaman/heyyitzaman?label=Forks&style=for-the-badge)
+  ![Open Issues](https://img.shields.io/github/issues/heyyitzaman/heyyitzaman?label=Open%20Issues&style=for-the-badge)
+  ![PRs](https://img.shields.io/github/issues-pr/heyyitzaman/heyyitzaman?label=Open%20PRs&style=for-the-badge)
 </div>
 
 ## 👋 About Me
 
 
-<img align="right" alt="https://github.com/amanpandey-crypto/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey-crypto&langs_count=5&show_icons=true&theme=radical&hide=css,html,c,scss" width="380" height="300" />
+<img align="right" alt="https://github.com/heyyitzaman/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyitzaman&langs_count=5&show_icons=true&theme=radical&hide=css,html,c,scss" width="380" height="300" />
 <br>
 
 😄 **Pronouns:** He/His
@@ -176,12 +176,12 @@ Passionate about backend development and DevOps, I enjoy tackling real-world cha
 ## 📈 GitHub & Productivity Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpandey-crypto&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpandey-crypto&theme=radical&fire=DD2727" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heyyitzaman&show_icons=true&theme=radical" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyyitzaman&theme=radical&fire=DD2727" width="420"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey-crypto&theme=monokai" width="900"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyyitzaman&theme=monokai" width="900"/>
 </div>
 
 <br>
@@ -203,7 +203,7 @@ Passionate about backend development and DevOps, I enjoy tackling real-world cha
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="34px" alt="Twitter"/>
   </a>
   &nbsp;
-  <a href="https://github.com/amanpandey-crypto" target="_blank">
+  <a href="https://github.com/heyyitzaman" target="_blank">
     <img src="https://img.icons8.com/nolan/48/github.png" width="34px" alt="GitHub"/>
   </a>
 </p>
